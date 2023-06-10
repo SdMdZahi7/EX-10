@@ -109,6 +109,7 @@ public class Details
 }
 ~~~
 OUTPUT:
+![image](https://github.com/SdMdZahi7/EX-10/assets/94187572/6a1d4abd-648a-45a6-a3b3-eb2b4584a9b1)
 
 RESULT:
 Thus, the output is verified.
